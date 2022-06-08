@@ -1,5 +1,5 @@
 {
-    "name":        "zfc-datagrid/zfc-datagrid",
+    "name":        "playground/zfc-datagrid",
     "description": "Laminas Module that provides a datagrid for different datasources and output formats",
     "type":        "library",
     "license":     "MIT",
@@ -37,7 +37,7 @@
         "laminas/laminas-cache": "^2.13.0 || ^3.1.2",
         "laminas/laminas-cache-storage-adapter-filesystem": "@stable",
         "laminas/laminas-servicemanager": "^3.0",
-        "doctrine/doctrine-laminas-hydrator": "^2.0 || ^3.0"
+        "doctrine/doctrine-laminas-hydrator": "^3.0"
     },
     
     "require-dev": {
